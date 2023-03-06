@@ -1,0 +1,9 @@
+c:\users\nico\documents\visual studio 2015\Projects\Solution1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\nico\documents\visual studio 2015\Projects\Solution1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\nico\documents\visual studio 2015\Projects\Solution1\ClassLibrary2\bin\Debug\CapaDatos.dll
+c:\users\nico\documents\visual studio 2015\Projects\Solution1\ClassLibrary2\bin\Debug\CapaDatos.pdb
+c:\users\nico\documents\visual studio 2015\Projects\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\nico\documents\visual studio 2015\Projects\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\NICO\Documents\Visual Studio 2015\Projects\Solution1\ClassLibrary2\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\NICO\Documents\Visual Studio 2015\Projects\Solution1\ClassLibrary2\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\NICO\Documents\Visual Studio 2015\Projects\Solution1\ClassLibrary2\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
